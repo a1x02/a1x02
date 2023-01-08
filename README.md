@@ -23,6 +23,10 @@
 - :envelope: Email: a1xsorokin@yandex.ru
 - :iphone: Telegram: @a1eks02
 
+### Projects:
+- [Проект: Путешествия по России](https://github.com/a1x02/russian-travel) *(Frontend)*
+- [Проект: Научиться учиться](https://github.com/a1x02/how-to-learn) *(Frontend)*
+
 ### Languages:
 - :ru: Russian *(Native)*
 - :us: English *(C1)*
