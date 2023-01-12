@@ -10,13 +10,13 @@
 </h1>
 
 ### Currently:
-- 🎓 Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Sowtware Engineering, 3rd year.
+- 🎓 Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Software Engineering, 3rd year.
 - 💻 Studying at Yandex Praktikum, Faculty of WEB Development, Frontend Development
 - 📚 Learning Frontend.
 
 ### Education:
 - :open_book: HSE Lyceum, Faculty of Maths and Informatics, 2018-2020.
-- :open_book: Bauman Moscow State Univercity, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Sowtware Engineering, 2020-2024.
+- :open_book: Bauman Moscow State Univercity, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Software Engineering, 2020-2024.
 - :open_book: Yandex Praktikum, Faculty of WEB Developmnet, Frontend Development, 2022-2023.
 
 ### Contacts:
