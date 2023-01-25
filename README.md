@@ -16,7 +16,7 @@
 
 ### Education:
 - :open_book: HSE Lyceum, Faculty of Maths and Informatics, 2018-2020.
-- :open_book: Bauman Moscow State Univercity, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Software Engineering, 2020-2024.
+- :open_book: Bauman Moscow State University, Faculty of Robotics and Complex Automation, Bachelor's degree CAD Software Engineering, 2020-2024.
 - :open_book: Yandex Praktikum, Faculty of WEB Developmnet, Frontend Development, 2022-2023.
 
 ### Contacts:
