@@ -24,7 +24,7 @@
 - :iphone: Telegram: @a1eks02
 
 ### Projects:
-- [Место](https://github.com/a1x02/mesto) *(Frontend)*
+- [Mesto](https://github.com/a1x02/mesto) *(Frontend)*
 - [Путешествия по России](https://github.com/a1x02/russian-travel) *(Frontend)*
 - [Научиться учиться](https://github.com/a1x02/how-to-learn) *(Frontend)*
 
