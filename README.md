@@ -24,8 +24,9 @@
 - :iphone: Telegram: @a1eks02
 
 ### Projects:
-- [Проект: Путешествия по России](https://github.com/a1x02/russian-travel) *(Frontend)*
-- [Проект: Научиться учиться](https://github.com/a1x02/how-to-learn) *(Frontend)*
+- [Место](https://github.com/a1x02/mesto) *(Frontend)*
+- [Путешествия по России](https://github.com/a1x02/russian-travel) *(Frontend)*
+- [Научиться учиться](https://github.com/a1x02/how-to-learn) *(Frontend)*
 
 ### Languages:
 - :ru: Russian *(Native)*
