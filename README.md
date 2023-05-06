@@ -11,17 +11,18 @@
 
 ### Currently:
 - 🎓 Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 3rd year.
-- 💻 Studying at Yandex Praktikum, Faculty of WEB Development, Frontend Development
+- 💻 Studying at Yandex Prakticum, Frontend Development
 - 📚 Learning Frontend.
 
 ### Education:
 - :open_book: HSE Lyceum, Faculty of Maths and Informatics, 2018-2020.
 - :open_book: Bauman Moscow State University, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 2020-2024.
-- :open_book: Yandex Praktikum, Faculty of WEB Developmnet, Frontend Development, 2022-2023.
+- :open_book: Yandex Prakticum, Frontend Development, 2022-2023.
 
 ### Contacts:
 - :envelope: Email: a1xsorokin@yandex.ru
 - :iphone: Telegram: @a1eks02
+- :fire: Inst: @andeground_boy
 
 ### Projects:
 - [Mesto](https://github.com/a1x02/mesto) *(Frontend)*
