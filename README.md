@@ -22,7 +22,7 @@
 ### Contacts:
 - :envelope: Email: a1xsorokin@yandex.ru
 - :iphone: Telegram: @a1eks02
-- :fire: Inst: @andeground_boy
+- :fire: Inst: @sonofurmomsfriend
 
 ### Projects:
 - [Mesto](https://github.com/a1x02/mesto) *(Frontend)*
