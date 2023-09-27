@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.tenor.com/B7EDCeDLmjwAAAAC/epic-anime.gif" width="50%">
 </div>
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=a1x02&style=flat-square&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=a1x02&style=flat-square&color=yellow" alt=""/>
 </div>
 <h1 align="center">
   Hey there, I'm Alex
