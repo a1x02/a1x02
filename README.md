@@ -13,7 +13,7 @@
 ### Currently:
 - 🎓 Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 4th year.
 - 💻 Working in Sibintek
-- 📚 Learning Frontend.
+- 📚 Learning Web.
 
 ### Education:
 - :open_book: HSE Lyceum, Faculty of Maths and Informatics, 2018-2020.
