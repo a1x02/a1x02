@@ -12,7 +12,7 @@
 
 ### Currently:
 - 🎓 Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 4th year.
-- 💻 Studying at Yandex Prakticum, Frontend Development
+- 💻 Working in Sibintek
 - 📚 Learning Frontend.
 
 ### Education:
